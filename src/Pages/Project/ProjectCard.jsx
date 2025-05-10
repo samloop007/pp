@@ -20,7 +20,6 @@ const projects = [
     image: "https://www.upwork.com/att/download/portfolio/persons/uid/1673681340072300544/profile/projects/files/7c70cb45-65cd-44e1-b03f-c1cf3c22b810",
     link: "https://www.forscratch.com/"
   },
-
   {
     title: "GBCYWO Charity website",
     description: "This is charity website made with wordpress.",
@@ -32,26 +31,26 @@ const projects = [
     description: "This is garden web site that i made.",
     image: "https://www.upwork.com/att/download/portfolio/persons/uid/1673681340072300544/profile/projects/files/c3349f50-0195-48c6-9f7c-e031220bfcf4",
     link: "https://www.upwork.com/freelancers/~01104ef89b0c3b3cba?p=1804873400368758784"
-    apt-get install g  {
-    title: "Weather App",
-    description: "A weather forecast app using OpenWeather API.",
-    image: "https://via.placeholder.com/300x180?text=Weather+App",
-    link: "https://github.com/yourrepo/weather-app"
   },
   {
-    title: "Portfolio Website",
-    description: "My personal portfolio built with React and CSS.",
-    image: "https://via.placeholder.com/300x180?text=Portfolio",
+    title: "Info Finder",
+    description: "info finder is toiurist web site on wordpress",
+    image: "https://cdn.truelancer.com/upload-full/1746540753-Screenshot-from-2025-05-06-19-09-49.png",
+    link: "https://infofinder.pk/"
+  },
+  {
+    title: "Vulnerability Assessment Report",
+    description: "Security flaws identified and analyzed in a test web app.",
+    image: "https://cdn.truelancer.com/upload-full/1746823743-ChatGPT-Image-May-10--2025--01_35_45-AM.png",
     link: "https://yourportfolio.com"
   },
   {
-    title: "Task Manager",
+    title: "lOCAL MAP",
     description: "A to-do list and productivity tracking app.",
-    image: "https://via.placeholder.com/300x180?text=Task+Manager",
-    link: ""
-  },
+    image: "https://media.licdn.com/dms/image/v2/D4D22AQE4_o23D4fjtA/feedshare-shrink_800/B4DZa71h7GGYAg-/0/1746908095185?e=1749686400&v=beta&t=ZN0WEN1JksK9nzfvjo2T3CJb-sAUZ5FxCjjoSSGhmLU",
+    link: "https://infofinder.netlify.app/"
+  }
 ];
-
 const ProjectCard = () => {
   return (
     <div className="project-container">

@@ -424,19 +424,19 @@ const Contact = () => {
                       "The cost varies based on the features and design requirements. Contact me for a detailed quote.",
                   },
                   {
-                    question: "I don’t have a design, can you build it for me?",
+                    question: "Can you help fix the issues you find?",
                     answer:
-                      "Absolutely! I can create a custom design tailored to your needs and preferences.",
+                      "Yes. I provide remediation steps and can work with your developers to fix the vulnerabilities or even patch them myself if required.",
                   },
                   {
-                    question: "Do you provide SEO as well?",
+                    question: "What services do you offer in cybersecurity?",
                     answer:
-                      "Yes, I offer basic SEO services to ensure your website is optimized for search engines.",
+                      "I offer vulnerability assessments, web application security testing, penetration testing (on authorized systems), and consultation on securing websites, CMS platforms, and custom applications.",
                   },
                   {
-                    question: "Will my website load quickly?",
+                    question: "Can you test live websites?",
                     answer:
-                      "Yes, I prioritize performance and ensure your website is optimized for fast loading times.",
+                      "Yes, but only with proper written authorization. I also offer testing in staging environments or using mock vulnerable apps for training and internal use.",
                   },
                 ].map((faq, index) => (
                   <Accordion

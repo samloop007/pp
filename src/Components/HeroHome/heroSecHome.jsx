@@ -60,7 +60,7 @@ const HeroSection = () => {
               >
                 Hello, I'm Samra Ilyas,
               </Box>
-              Web Developer based in Pakistan.
+              Web Developer & Cyber Security Expert based in Pakistan.
             </Typography>
 
             <Typography
@@ -75,9 +75,7 @@ const HeroSection = () => {
                 marginRight: { xs: "auto", md: "0px" },
               }}
             >
-              Crafting responsive and high-performing web experiences.
-              Specializing in front-end development and CMS solutions with
-              Webflow & Framer.
+              Crafting responsive, secure, and high-performing web experiences. Specializing in front-end development, cybersecurity best practices, and CMS solutions with Webflow & Framer."
             </Typography>
 
             <Box
